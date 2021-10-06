@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Calendar
-type: page
 uid: 468d5b04-1b49-5038-b27d-a5570dd7e2bc
 ---
 

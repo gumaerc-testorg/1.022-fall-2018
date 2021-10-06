@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Final Project
-type: page
 uid: dbecca52-01f3-8413-20b1-fda5e6c91ec5
 ---
 
