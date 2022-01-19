@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-022-introduction-to-network-models-fall-2018/74ce83b3aab205f550630dcb588eee15_Default_Project_Data.zip
-file_location: /coursemedia/1-022-introduction-to-network-models-fall-2018/74ce83b3aab205f550630dcb588eee15_Default_Project_Data.zip
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-022-introduction-to-network-models-fall-2018/74ce83b3aab205f550630dcb588eee15_Default_Project_Data.zip
 file_type: application/zip
 resourcetype: Other
 title: Default_Project_Data.zip

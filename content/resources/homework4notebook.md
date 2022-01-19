@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-022-introduction-to-network-models-fall-2018/3c5f898bf65e5914417455104ca4659d_Homework4Notebook.ipynb
-file_location: /coursemedia/1-022-introduction-to-network-models-fall-2018/3c5f898bf65e5914417455104ca4659d_Homework4Notebook.ipynb
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-022-introduction-to-network-models-fall-2018/3c5f898bf65e5914417455104ca4659d_Homework4Notebook.ipynb
 file_type: application/octet-stream
 resourcetype: Other
 title: Homework4Notebook.ipynb

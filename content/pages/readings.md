@@ -14,25 +14,361 @@ Note: An [online version](https://www.cs.cornell.edu/home/kleinber/networks-book
 
 \[S\] = Shah, Devavrat. _Gossip Algorithms_. Now Publishers Inc., 2009. ISBN: 9781601982360.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Course specifics, motivation, and intro to graph theory |  {{< br >}}{{< br >}} \[E\] Chapter 1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA1=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[E\] Chapter 2.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA21=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}}  |
-| 2 | Introduction to graph theory |  {{< br >}}{{< br >}} \[E\] Chapter 2.2. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA23=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[E\] Chapter 2.3. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA29=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[N\] Chapter 6.1–6.4, 6.7, and 6.9. {{< br >}}{{< br >}}  |
-| 3 | Strong and weak ties, triadic closure, and homophily |  {{< br >}}{{< br >}} \[E\] Chapter 3.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA44=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[E\] Chapter 3.2. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA46=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[E\] Chapter 3.3. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA51=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[E\] Chapter 4.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA77=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}}  |
-| 4 | Centrality measures |  {{< br >}}{{< br >}} \[N\] Chapter 7.1–7.3 and 7.6–7.7. {{< br >}}{{< br >}}  |
-| 5 | Centrality and web search, spectral graph theory |  {{< br >}}{{< br >}} \[E\] Chapter 14.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA351=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[E\] Chapter 14.2. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA353=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[E\] Chapter 14.3.  {{< br >}}{{< br >}} \[N\] Chapter 6.13. {{< br >}}{{< br >}}  |
-| 6–7 | Spectral graph theory, spectral clustering, and community detection |  {{< br >}}{{< br >}} \[N\] Chapter 11.5.  {{< br >}}{{< br >}} Spielman, Daniel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 16: Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf). Yale University, 2007. {{< br >}}{{< br >}}  |
-| 8–10 | Network models |  {{< br >}}{{< br >}} \[N\] Chapter 12.1–12.3, 12.5, and 12.7–12.8. {{< br >}}{{< br >}}  |
-| 11 | Configuration model and small-world graphs |  {{< br >}}{{< br >}} \[E\] Chapter 20.1–20.2. {{< br >}}{{< br >}} \[J\] Chapter 4.1.4. {{< br >}}{{< br >}} \[J\] Chapter 4.2.1. \[Preview with [Google Books](https://books.google.com/books?id=bJbuD2XH1_oC&pg=PA86=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[J\] Chapter 4.2.6.  {{< br >}}{{< br >}} \[N\] Chapter 15.1. {{< br >}}{{< br >}}  |
-| 12 | Growing networks |  {{< br >}}{{< br >}} \[E\] Chapter 18.   {{< br >}}{{< br >}} \[N\] Chapter 14.2. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}Midterm exam{{< /td-colspan >}} |||
-| 13–14 | Linear dynamical systems |  {{< br >}}{{< br >}} ﻿\[N\] Chapter 18.1–18.2.﻿ {{< br >}}{{< br >}}  |
-| 15 | Markov chains | \[N\] Chapter 6.14.﻿ |
-| 16–17 | Information spread and distributed computation |  {{< br >}}{{< br >}} \[S\] Chapter 2.1. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA9=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[S\] Chapter 2.2. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA11=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[S\] Chapter 3.1. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA21=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[S\] Chapter 3.2. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA22=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[S\] Chapter 5.1–5.2.  {{< br >}}{{< br >}}  |
-| 18–19 | Learning and herding |  {{< br >}}{{< br >}} \[E\] Chapter 16.1–16.2. {{< br >}}{{< br >}} \[J\] Chapter 8.3 and 9.1. {{< br >}}{{< br >}}  |
-| 20 | Epidemics |  {{< br >}}{{< br >}} \[E\] Chapter 21. {{< br >}}{{< br >}} \[J\] Chapter 7.1–7.2 {{< br >}}{{< br >}}  |
-| 21 | Introduction to game theory I |  {{< br >}}{{< br >}} \[E\] Chapter 6.1–6.4 and 6.10 (A & B). {{< br >}}{{< br >}}  |
-| 22 | Introduction to game theory II |  {{< br >}}{{< br >}} \[E\] Chapter 6.5, 6.6, and 6.9. {{< br >}}{{< br >}}  |
-| 23 | Application of game theory to networks |  {{< br >}}{{< br >}} \[E\] Chapter 8.1–8.3.  {{< br >}}{{< br >}}  |
-| 24 | Course review and discussion | No readings assigned. |
-| 25 | Project presentations | No readings assigned.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course specifics, motivation, and intro to graph theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA1=onepage#v=onepage&q&f=false)\]
+
+\[E\] Chapter 2.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA21=onepage#v=onepage&q&f=false)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to graph theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 2.2. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA23=onepage#v=onepage&q&f=false)\]
+
+\[E\] Chapter 2.3. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA29=onepage#v=onepage&q&f=false)\]
+
+\[N\] Chapter 6.1–6.4, 6.7, and 6.9.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Strong and weak ties, triadic closure, and homophily
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 3.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA44=onepage#v=onepage&q&f=false)\]
+
+\[E\] Chapter 3.2. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA46=onepage#v=onepage&q&f=false)\]
+
+\[E\] Chapter 3.3. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA51=onepage#v=onepage&q&f=false)\]
+
+\[E\] Chapter 4.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA77=onepage#v=onepage&q&f=false)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Centrality measures
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[N\] Chapter 7.1–7.3 and 7.6–7.7.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Centrality and web search, spectral graph theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 14.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA351=onepage#v=onepage&q&f=false)\]
+
+\[E\] Chapter 14.2. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA353=onepage#v=onepage&q&f=false)\]
+
+\[E\] Chapter 14.3. 
+
+\[N\] Chapter 6.13.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6–7
+{{< tdclose >}}
+{{< tdopen >}}
+Spectral graph theory, spectral clustering, and community detection
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[N\] Chapter 11.5. 
+
+Spielman, Daniel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 16: Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf). Yale University, 2007.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8–10
+{{< tdclose >}}
+{{< tdopen >}}
+Network models
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[N\] Chapter 12.1–12.3, 12.5, and 12.7–12.8.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Configuration model and small-world graphs
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 20.1–20.2.
+
+\[J\] Chapter 4.1.4.
+
+\[J\] Chapter 4.2.1. \[Preview with [Google Books](https://books.google.com/books?id=bJbuD2XH1_oC&pg=PA86=onepage#v=onepage&q&f=false)\]
+
+\[J\] Chapter 4.2.6. 
+
+\[N\] Chapter 15.1.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Growing networks
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 18.  
+
+\[N\] Chapter 14.2.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+Midterm exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13–14
+{{< tdclose >}}
+{{< tdopen >}}
+Linear dynamical systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿\[N\] Chapter 18.1–18.2.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Markov chains
+{{< tdclose >}}
+{{< tdopen >}}
+﻿\[N\] Chapter 6.14.﻿
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16–17
+{{< tdclose >}}
+{{< tdopen >}}
+Information spread and distributed computation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[S\] Chapter 2.1. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA9=onepage#v=onepage&q&f=false)\]
+
+\[S\] Chapter 2.2. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA11=onepage#v=onepage&q&f=false)\]
+
+\[S\] Chapter 3.1. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA21=onepage#v=onepage&q&f=false)\]
+
+\[S\] Chapter 3.2. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA22=onepage#v=onepage&q&f=false)\]
+
+\[S\] Chapter 5.1–5.2. 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18–19
+{{< tdclose >}}
+{{< tdopen >}}
+Learning and herding
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 16.1–16.2.
+
+\[J\] Chapter 8.3 and 9.1.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Epidemics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 21.
+
+\[J\] Chapter 7.1–7.2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to game theory I
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 6.1–6.4 and 6.10 (A & B).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to game theory II
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 6.5, 6.6, and 6.9.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Application of game theory to networks
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[E\] Chapter 8.1–8.3. 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Course review and discussion
+{{< tdclose >}}
+{{< tdopen >}}
+No readings assigned.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+No readings assigned.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

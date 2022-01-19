@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-022-introduction-to-network-models-fall-2018/6c2635402d5dd7987a27daecbf6b53dd_MIT1_022F18_Homework3.pdf
-file_location: /coursemedia/1-022-introduction-to-network-models-fall-2018/6c2635402d5dd7987a27daecbf6b53dd_MIT1_022F18_Homework3.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-022-introduction-to-network-models-fall-2018/6c2635402d5dd7987a27daecbf6b53dd_MIT1_022F18_Homework3.pdf
 file_type: application/pdf
 resourcetype: Document
 title: '1.022_F18 Homework3: Erdos Renyi Graphs'

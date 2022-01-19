@@ -1,5 +1,9 @@
 {
-  "level": "Undergraduate",
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
   "topics": [
     [
       "Engineering",
@@ -7,11 +11,16 @@
       "Computational Modeling and Simulation"
     ]
   ],
+  "legacy_uid": "677c40ef-89fb-77b9-446d-4b90615946c6",
   "instructors": {
     "content": [
       "edca3ce7-073c-e21e-54a4-1823633bcd50"
     ],
     "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b0e554b2-867a-cd35-80bc-e8938a2986dc",
+    "website": "1-022-introduction-to-network-models-fall-2018"
   },
   "course_title": "Introduction to Network Models",
   "course_description": "This course provides an introduction to complex networks and their structure and function, with examples from engineering, applied mathematics, and social sciences. Topics include spectral graph theory, notions of centrality, random graph models, contagion phenomena, cascades and diffusion, and opinion dynamics.\n",
@@ -20,10 +29,15 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "1.022",
+  "course_image_thumbnail": {
+    "content": "00a54dd2-18a4-0446-4e31-ed1ab7d38def",
+    "website": "1-022-introduction-to-network-models-fall-2018"
+  },
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",
     "Projects"
   ],
+  "site_uid": "967f6549-67d8-4d6c-aa42-846f3fd6261c",
   "title": "Course Metadata"
 }
