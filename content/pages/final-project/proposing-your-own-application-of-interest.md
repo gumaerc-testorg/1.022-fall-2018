@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Final Project
+parent_type: CourseSection
 parent_uid: dbecca52-01f3-8413-20b1-fda5e6c91ec5
 title: Proposing Your Own Application of Interest
 uid: bc823579-a0b2-aa50-9d9e-e51d494a569d
@@ -37,10 +41,10 @@ You can also look at the datasets available at the following databases to come u
 Timeline
 --------
 
-Each individual (or group if you are working with someone else) will have to write and submit a report along with their Python code.1 The report should describe the motivation of your project, the network dataset, the descriptive information from Part I, the research question, model and thesis from Part II, and finally your approach and results from Part III. The Part I descriptive write-up will be due before the final report, in order to make sure everyone is on track. You will also have to give a 15 minute presentation on your project during the last week of class. There will be the following deadlines.
+Each individual (or group if you are working with someone else) will have to write and submit a report along with their Python code.{{< sup "1" >}} The report should describe the motivation of your project, the network dataset, the descriptive information from Part I, the research question, model and thesis from Part II, and finally your approach and results from Part III. The Part I descriptive write-up will be due before the final report, in order to make sure everyone is on track. You will also have to give a 15 minute presentation on your project during the last week of class. There will be the following deadlines.
 
 *   Lecture 21: Part I descriptive write-up.
 *   Lecture 25: Oral Presentation (15 minutes).
 *   One week after Lecture 25: Final project report (including all code).
 
-1 You may use other programming languages, while Python is preferred.
+{{< sup "1" >}} You may use other programming languages, while Python is preferred.

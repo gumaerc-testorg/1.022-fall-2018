@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-022-introduction-to-network-models-fall-2018/7693ccd6486dfc155456f407b691e0b1_MIT1_022F18_ProjectEpidemics.pdf
+file: /media/courses/1-022-introduction-to-network-models-fall-2018/7693ccd6486dfc155456f407b691e0b1_MIT1_022F18_ProjectEpidemics.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Final Project
+parent_type: CourseSection
 resourcetype: Document
 title: '1.022F18 Final Project: Controlling Epidemics on Networks'
 uid: 7693ccd6-486d-fc15-5456-f407b691e0b1

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Final Project
 uid: dbecca52-01f3-8413-20b1-fda5e6c91ec5
 ---
@@ -17,7 +20,7 @@ Identify a network dataset of interest. Download it, build the network using Pyt
 
 _Part II_
 
-Formulate a research question tailored to your dataset. This should be the thesis of your final report and should describe exactly what you are interested in studying / answering. This part should also include the description of the mathematical model you intend to use to answer your research question. This could be a model you have learned in the course or taken from a text book or paper related to your research question.1
+Formulate a research question tailored to your dataset. This should be the thesis of your final report and should describe exactly what you are interested in studying / answering. This part should also include the description of the mathematical model you intend to use to answer your research question. This could be a model you have learned in the course or taken from a text book or paper related to your research question.{{< sup "1" >}}
 
 _Part III_
 
@@ -34,4 +37,4 @@ Grading Scheme
 
 The most important part of the project will, of course, be your final report, so make sure it is complete and understandable. Make sure to complete all three parts listed above and try to come up with some interesting conclusions after finishing Part III (i.e. don't just list a bunch of results but instead try to provide a clear answer to your question posed in Part II). You will also be graded on the clarity of your presentation. Remember, this project is worth 40% of your grade so please do not leave it to the last minute.
 
-1 You need to provide proper citation.
+{{< sup "1" >}} You need to provide proper citation.
