@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 79eb2273-7a39-6156-382c-dce20b0c04b6
 resourcetype: Document
 title: '1_022_F18 Homework6: Romeo Juliet'
 uid: dc67242c-873d-1c15-7f11-7fd665e9cc35

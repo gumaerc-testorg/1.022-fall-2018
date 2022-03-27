@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 3c7c31f1-b722-eb35-9611-72366b87270a
 resourcetype: Document
 title: '1.022_F18 Related Resource 1: Probability Review'
 uid: 627637d4-1da8-38dc-e0d7-05e124fed5c0

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 79eb2273-7a39-6156-382c-dce20b0c04b6
 resourcetype: Document
 title: '1.022_F18 Homework8: Characterizing The Equilibria'
 uid: 2787b045-43e4-b73d-5b59-80f4d40b82dc

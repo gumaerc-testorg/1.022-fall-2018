@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1837dde2-f4c9-ab07-3ee5-742c2ecaffa2
 resourcetype: Document
 title: 'Lecture 13 and Lecture 14: Linear Dynamical Systems'
 uid: cd237408-6f73-7277-0afd-26d65d51d29f

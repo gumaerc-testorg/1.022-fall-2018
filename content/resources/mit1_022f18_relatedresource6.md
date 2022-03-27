@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 3c7c31f1-b722-eb35-9611-72366b87270a
 resourcetype: Document
 title: '1.022_F18 Related Resource 6: Useful Resources'
 uid: d548b49c-43de-19a3-b919-5d9177fe166d

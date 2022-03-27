@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 79eb2273-7a39-6156-382c-dce20b0c04b6
 resourcetype: Other
 title: Homework4Notebook.ipynb
 uid: 3c5f898b-f65e-5914-4174-55104ca4659d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1837dde2-f4c9-ab07-3ee5-742c2ecaffa2
 resourcetype: Document
 title: 'Lectures 15 - 17: Markov Chains, Information Spread and Distributed Computation'
 uid: f4cc56ee-2996-e20c-df6d-46b1b6e7a952

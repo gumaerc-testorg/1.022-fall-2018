@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1837dde2-f4c9-ab07-3ee5-742c2ecaffa2
 resourcetype: Document
 title: 'Lectures 22 and 23: Introduction to Game Theory II / Application of Game Theory
   to Networks'

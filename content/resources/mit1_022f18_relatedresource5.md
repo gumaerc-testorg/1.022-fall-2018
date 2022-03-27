@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 3c7c31f1-b722-eb35-9611-72366b87270a
 resourcetype: Document
 title: '1.022_F18 Related Resource 5: Python Resources'
 uid: 4164c023-5118-11b7-d88e-2be84d0a8138

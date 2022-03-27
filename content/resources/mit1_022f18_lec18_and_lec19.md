@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1837dde2-f4c9-ab07-3ee5-742c2ecaffa2
 resourcetype: Document
 title: 'Lectures 18 and 19: Learning and Herding '
 uid: 6a65a98b-d415-d646-ddbf-0e815f63ac74

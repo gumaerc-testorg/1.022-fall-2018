@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 79eb2273-7a39-6156-382c-dce20b0c04b6
 resourcetype: Document
 title: '1.022_F18 Homework1: Graphs and Concepts'
 uid: a27f1180-62b7-377d-5003-0d544256f3ea
