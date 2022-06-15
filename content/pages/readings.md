@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section contains the course readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: b2c48e80-8fb2-92a3-ed8e-3f558bbdc79a
+video_metadata:
+  youtube_id: null
 ---
 
 \[E\] = Easley, David, and Jon Kleinberg. _Networks, Crowds, and Markets: Reasoning about a Highly Connected World_. Cambridge University Press, 2010. ISBN: 9780521195331. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PAfrontcover#v=onepage&q&f=false)\]
@@ -143,7 +146,7 @@ Spectral graph theory, spectral clustering, and community detection
 
 \[N\] Chapter 11.5. 
 
-Spielman, Daniel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 16: Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf). Yale University, 2007.
+Spielman, Daniel. [Chapter 16: Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf). Yale University, 2007.
 
 
 {{< tdclose >}}
