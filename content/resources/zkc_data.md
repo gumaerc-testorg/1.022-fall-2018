@@ -5,6 +5,7 @@ file: /courses/1-022-introduction-to-network-models-fall-2018/7c4139562027064f0a
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: ''
 file: /courses/1-022-introduction-to-network-models-fall-2018/4164c023511811b7d88e2be84d0a8138_MIT1_022F18_RelatedResource5.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection

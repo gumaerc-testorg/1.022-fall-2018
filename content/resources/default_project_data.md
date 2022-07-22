@@ -5,6 +5,7 @@ file: /courses/1-022-introduction-to-network-models-fall-2018/74ce83b3aab205f550
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Project
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/1-022-introduction-to-network-models-fall-2018/f4cc56ee2996e20cdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
