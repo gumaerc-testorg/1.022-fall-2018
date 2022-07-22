@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: This section contains the course calendar and key due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 468d5b04-1b49-5038-b27d-a5570dd7e2bc
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
