@@ -33,9 +33,9 @@ This course provides an introduction to complex networks and their structure and
 Course Textbook
 ---------------
 
-Easley, David, and Jon Kleinberg. _Networks, Crowds, and Markets: Reasoning about a Highly Connected World_. Cambridge University Press, 2010. ISBN: 9780521195331. \[Preview with {{% resource_link "da8d4db8-c1ce-4a01-913e-34f7dd150706" "Google Books" %}}\]
+Easley, David, and Jon Kleinberg. _Networks, Crowds, and Markets: Reasoning about a Highly Connected World_. Cambridge University Press, 2010. ISBN: 9780521195331. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-An {{% resource_link "20efc706-6492-4c10-b1e8-3f34f368b9db" "online version" %}} is freely available on Jon Kleinberg's homepage on Cornell University's Department of Computer Science website.
+An [online version](https://www.cs.cornell.edu/home/kleinber/networks-book/) is freely available on Jon Kleinberg's homepage on Cornell University's Department of Computer Science website.
 
 Occasionally we may also use a few additional book chapters and research papers. These can be found in the {{% resource_link b2c48e80-8fb2-92a3-ed8e-3f558bbdc79a "Readings" %}} section.
 
