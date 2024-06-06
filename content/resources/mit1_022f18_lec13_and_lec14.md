@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-022-introduction-to-network-models-fall-2018/cd2374086f7372770afd26d65d51d29f_MIT1_022F18_lec13_and_lec14.pdf
+file_size: 408418
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
