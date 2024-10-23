@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-022-introduction-to-network-models-fall-2018/627637d41da838dce0d705e124fed5c0_MIT1_022F18_RelatedResource1.pdf
+file: /ol-ocw-studio-app/courses/1-022-introduction-to-network-models-fall-2018/627637d41da838dce0d705e124fed5c0_MIT1_022F18_RelatedResource1.pdf
 file_size: 289770
 file_type: application/pdf
 learning_resource_types: []
