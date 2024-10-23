@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-022-introduction-to-network-models-fall-2018/7c4139562027064f0ad1a42a08ad0ec7_ZKC_data.txt
+file: /ol-ocw-studio-app/courses/1-022-introduction-to-network-models-fall-2018/7c4139562027064f0ad1a42a08ad0ec7_ZKC_data.txt
 file_size: 537
 file_type: text/plain
 learning_resource_types:
