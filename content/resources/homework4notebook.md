@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-022-introduction-to-network-models-fall-2018/3c5f898bf65e5914417455104ca4659d_Homework4Notebook.ipynb
+file: /ol-ocw-studio-app/courses/1-022-introduction-to-network-models-fall-2018/3c5f898bf65e5914417455104ca4659d_Homework4Notebook.ipynb
 file_size: 8088
 file_type: application/octet-stream
 learning_resource_types:
