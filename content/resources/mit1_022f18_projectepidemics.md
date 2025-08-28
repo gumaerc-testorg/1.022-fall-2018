@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-022-introduction-to-network-models-fall-2018/7693ccd6486dfc155456f407b691e0b1_MIT1_022F18_ProjectEpidemics.pdf
+file: /ol-ocw-studio-app/courses/1-022-introduction-to-network-models-fall-2018/7693ccd6486dfc155456f407b691e0b1_MIT1_022F18_ProjectEpidemics.pdf
 file_size: 298196
 file_type: application/pdf
 learning_resource_types:
